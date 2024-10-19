@@ -1,0 +1,3 @@
+site_name: Google Docx Documentation # Project Doc Name
+site_dir: site 
+site_url: http://127.0.0.1:8000/docs
